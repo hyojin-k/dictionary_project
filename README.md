@@ -27,3 +27,12 @@
 
 
 ### 완성 페이지
+
+- 메인 페이지
+<img src='https://user-images.githubusercontent.com/50295043/136120921-26c75af6-2b23-4f61-8062-0738eb24507e.png' width='200'>
+
+- 등록 페이지                                                                                                                        
+<img src='https://user-images.githubusercontent.com/50295043/136120923-41d6acc2-0086-4937-a826-bc2481f766e5.png' width='200'>
+
+- 상세 페이지
+<img src='https://user-images.githubusercontent.com/50295043/136120925-3adb739c-4c5f-4b85-a623-9b4a90b90c53.png' width='200'>
